@@ -1,0 +1,51 @@
+html {
+	font-family: sans-serif;
+}
+
+* {
+	color: #333333;
+}
+
+h1 {
+	color: #2f80ed;
+	margin-bottom: 0.25em;
+}
+
+h2 {
+	color: #333333;
+	font-size: 1em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+h3 {
+	color: #2f80ed;
+}
+
+a {
+	color: #2f80ed;
+}
+
+.contacts {
+	margin-bottom: 8px;
+}
+
+.contact {
+	display: flex;
+}
+
+.contact__type {
+	min-width: 90px;
+	margin-bottom: 1em;
+}
+
+.photo {
+	width: 150px;
+	height: 230px;
+	margin-left: 2em;
+	margin-bottom: 1em;
+}
+
+.description {
+	margin-bottom: 2em;
+}
