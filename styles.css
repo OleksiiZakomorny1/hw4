@@ -7,3 +7,9 @@ body {
 h2 {
 	margin-top: 50px;
 }
+
+a {
+	margin-right: 50px;
+	text-decoration: none;
+	color: black;
+}
